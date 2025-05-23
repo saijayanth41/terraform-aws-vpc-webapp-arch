@@ -84,12 +84,6 @@ terraform apply
 
 ---
 
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👤 Author
 
 **Sai Jayanth Rajamahendram**  
